@@ -1,5 +1,8 @@
 {
   "cSpell.words": [
+    "keras",
+    "LSTM",
     "nltk"
-  ]
+  ],
+  "python.formatting.provider": "black"
 }
